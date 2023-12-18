@@ -1,0 +1,13 @@
+Kiausiniene                                  5  7.25  Eur
+Kiaulienos sonine su keptu kiausiniu         5  12.25 Eur
+Keksiukas su vysnia                          3  2.97  Eur
+Prancuziskas skrebutis                       1  1.99  Eur
+Vaisiu salotos                               1  2.49  Eur
+Pusryciu dribsniai                           1  0.69  Eur
+Kava                                         1  0.5   Eur
+Arbata                                       2  1.5   Eur
+
+Mokesciai                                       2.67  Eur
+
+Is viso moketi:                                 32.31 Eur
+
