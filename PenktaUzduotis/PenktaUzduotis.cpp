@@ -71,7 +71,7 @@ void printCheck(OrderedItemType OrderedItems[], double value) {
 
     for (int i = 0; i < 8; i++) {
         if (OrderedItems[i].Price != 0)
-            fd << left << setw(45) << OrderedItems[i].Name << left << setw(3) << OrderedItems[i].Quantity << left << setw(5) << OrderedItems[i].Price << " Eur" << endl;
+            fd << left << setw(45) << OrderedItems[i].Name << left << setw(3) << OrderedItems[i].Quantity << left << setw(5) << fixed << setprecision(2) << OrderedItems[i].Price << " Eur" << endl;
     }
     fd << endl;
     fd << left << setw(48) << "Mokesciai" << fixed << setprecision(2) << value * 0.09 << "  Eur" << endl;
